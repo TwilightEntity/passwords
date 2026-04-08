@@ -180,7 +180,6 @@ Just open the project in your browser:
 
 ```bash
 git clone https://github.com/TwilightEntity/pritam.git
-cd passwords
 open index.html
 ```
 
